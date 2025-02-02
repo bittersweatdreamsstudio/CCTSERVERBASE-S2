@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "85da9efa-bbf8-31b0-b7c3-ca734425e211",
+    "name": "JeamByOne",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
